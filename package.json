@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "axios": "^1.7.7",
+    "dotenv": "^16.4.5",
     "idb": "^8.0.0",
     "workbox-cli": "^7.1.0"
   }
