@@ -25,4 +25,4 @@ const fetchAndStoreData = async (endpoints) => {
   }
 };
 
-module.exports = { fetchAndStoreData };
+module.exports = fetchAndStoreData;
